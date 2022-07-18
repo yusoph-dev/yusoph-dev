@@ -1,12 +1,14 @@
 ### 👋 Hello there.
 I'm Yusoph. I'm a self-taught Fullstack Software Engineer from Philippines, I currently work at [Hiraya MNL](https://hirayamnl.com).
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 [![Linkedin Badge]([https://img.shields.io/badge/-yusoph-dev-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/yusoph-dev/)](https://www.linkedin.com/in/yusoph-dev/)
 
 
 ### ⚡ Technologies
 
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"> 
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF">
