@@ -1,7 +1,7 @@
 ### 👋 Hello there.
 I'm Yusoph. I'm a self-taught Fullstack Software Engineer from Philippines, I currently work at [Hiraya MNL](https://hirayamnl.com).
 
-[![Vercel Badge](https://img.shields.io/badge/yusoph--dev-https%3A%2F%2Fyusoph.vercel.app%2Fin%2Fyusoph--dev-white?style=for-the-badge&logo=vercel&color=green)](https://yusoph.vercel.app/)
+[![Vercel Badge](https://img.shields.io/badge/yusoph--dev-https%3A%2F%2Fyusoph.vercel.app-white?style=for-the-badge&logo=vercel&color=green)](https://yusoph.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/yusoph--dev-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyusoph--dev-white?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/yusoph-dev/)
 
 ### ⚡ Technologies
